@@ -1,0 +1,12 @@
+* {
+margin: auto;
+padding: auto;
+}
+body {
+background: #000000;
+}
+
+h1 {
+color: red;
+font-size: 200px;
+}
